@@ -17,7 +17,7 @@ This repository contains the official code for the paper:
 
 ```
 Deep Residual Echo State Networks: exploring residual orthogonal connections in untrained Recurrent Neural Networks,
-Matteo Pinna, Andrea Ceni, Claudio Gallicchio
+Matteo Pinna, Andrea Ceni, Claudio Gallicchio,
 arxiv:2508.21172, 2025.
 ```
 
