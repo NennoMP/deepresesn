@@ -1,4 +1,4 @@
-# adapted from 
+# adapted from
 # https://github.com/gc-os-ai/pyaptamer/blob/main/.github/workflows/test.yml
 
 name: code-quality
@@ -11,7 +11,7 @@ on:
     branches: [ main ]
     paths-ignore:
     - 'assets/**, data/**, experiments/results/**'
-  
+
 jobs:
   code-quality:
     name: code-quality
