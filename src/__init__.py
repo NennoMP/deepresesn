@@ -1,3 +1,3 @@
-"""Official code for the paper `YOUR PAPER TITLE HERE`"""
+"""Official code for the paper Deep Residual Echo State Networks."""
 
 __version__ = 0.1
