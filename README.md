@@ -1,5 +1,5 @@
 ## Disclaimer
-**Code will be released by the end of September 2025.**
+**Code will be released (approx.) around Oct./Nov. 2025.**
 
 <div align="center">
 
