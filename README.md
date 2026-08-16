@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+## Disclaimer
+**Code will be released (approx.) around Oct./Nov. 2025.**
+
+>>>>>>> fc04fc76520de10517265ba9221d876b5bbb61ca
 <div align="center">
 
 # Deep Residual Echo State Networks

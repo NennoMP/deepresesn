@@ -23,8 +23,13 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
+<<<<<<< HEAD
     "pre-commit",
     "ruff>=0.12.11",
+=======
+    "ruff>=0.12.0",
+    "pre-commit",
+>>>>>>> fc04fc76520de10517265ba9221d876b5bbb61ca
 ]
 
 [build-system]
